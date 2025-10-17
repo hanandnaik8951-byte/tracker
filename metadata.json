@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriTrack AI",
+  "description": "An intelligent food diary that uses AI to estimate calories, protein, carbohydrates, and fats from your meal descriptions or photos. Track your daily intake and view your history.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
